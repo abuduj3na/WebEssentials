@@ -1,0 +1,18 @@
+body {
+  background-color: #dcc066;
+}
+
+h1 {
+  color: #740001;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-left-style: solid;
+  border-color: #740001;
+  border-bottom: 0px;
+}
+p {
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-color: #740001;
+}
