@@ -1,0 +1,20 @@
+* {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 48px;
+  color: brown;
+  font-family: "Arial Black", serif;
+  font-style: italic;
+}
+
+.groenekleur {
+  color: green;
+}
+h1.groenekleur {
+  color: greenyellow;
+}
+header h1 {
+  color: blue;
+}
